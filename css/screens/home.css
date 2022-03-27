@@ -1,0 +1,24 @@
+.home__main {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(#b697e7, 10%, #fed5ff);
+}
+.home__background {
+  height: 100vh;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.home__twentytwo {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  width: 183px;
+  height: 230px;
+}
+.home__clouds img {
+  position: absolute;
+  height: 20vh;
+  top: 4%;
+}

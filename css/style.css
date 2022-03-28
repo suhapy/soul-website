@@ -7,7 +7,15 @@
 /* screens */
 @import "screens/home.css";
 
+/* components */
+@import "components/header.css";
+
 body {
   font-family: brandon-grotesque, sans-serif;
-  /* color: white; */
+  color: white;
+}
+.info-text {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 400;
 }

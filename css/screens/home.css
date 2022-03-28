@@ -14,11 +14,23 @@
   position: absolute;
   top: 60%;
   left: 10%;
-  width: 183px;
-  height: 230px;
+  height: 20%;
 }
 .home__clouds img {
   position: absolute;
   height: 20vh;
   top: 4%;
+}
+
+/* home balls */
+.home__ball {
+  display: flex;
+  align-items: center;
+}
+.ball__info {
+  position: relative;
+}
+.ball__info info-text {
+  position: absolute;
+  top: 0;
 }
